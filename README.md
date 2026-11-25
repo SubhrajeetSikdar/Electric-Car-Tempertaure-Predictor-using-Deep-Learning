@@ -1,0 +1,2 @@
+# Electric-Car-Tempertaure-Predictor-using-Deep-Learning
+Developed a deep learning-based Python project to predict electric motor temperatures using sensor and operational data. Implemented data preprocessing, model training, and regression techniques to estimate motor temperature accurately, helping support thermal monitoring, performance analysis, and predictive maintenance of electric vehicles.
