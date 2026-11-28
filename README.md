@@ -4,6 +4,7 @@ This project uses deep learning techniques with PyTorch to predict electric moto
 
 ## Project Overview
 
+
 Electric motor temperature prediction is important for monitoring motor performance, preventing overheating, and supporting predictive maintenance in electric vehicles. This project applies a CNN-based regression model to predict motor temperature using selected operational parameters.
 
 ## Dataset
